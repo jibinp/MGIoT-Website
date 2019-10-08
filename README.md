@@ -10,7 +10,7 @@ The top of the home page contains a slide show with some relevant images.
 
 
 About content in home page.
-![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/01_About.png)  
+![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/02_About.png)  
 
 The breif description of the design in home page.
 ![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/03_Design.png)  
