@@ -37,7 +37,7 @@ The section in home page to contact the team members.
 
 
 ## Gallery Page
-This page shows is a showcase of pictures showing our works.
+This page is a showcase of pictures showing our works.
 ![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/07_Gallery.png)
 
 
