@@ -5,4 +5,4 @@ This is a website done as part of MGIoT project that people will get an outline 
   HTML, Javascript.
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/01_Home_Page.png.png)  
+![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/01_Home_Page.png)  
