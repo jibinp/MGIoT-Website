@@ -17,16 +17,16 @@ The breif description of the design in home page.
 
 
 A brief of team members in home page.
-[alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/04_Team.png)  
+![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/04_Team.png)  
 
 
 The pictures of the works in home page.
-[alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/05_Works.png) 
+![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/05_Works.png) 
 
 
 The details of platform which we used.
-[alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/06_Platform.png) 
+![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/06_Platform.png) 
 
 
 The section in home page to contact the team members.
-[alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/07_Contact.png) 
+![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/07_Contact.png) 
