@@ -47,6 +47,7 @@ This page is a showcase of pictures showing our works.
 
 
 ## Downloads Page
+You can download codes here
 ![alt text](https://raw.githubusercontent.com/jibinp/MGIoT-Website/master/Pics/09_Downloads.png)
 
 
